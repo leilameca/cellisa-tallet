@@ -1,0 +1,4 @@
+El desarrollo e integración de sistemas constituye una etapa esencial en la construcción de aplicaciones informáticas.
+En este proceso se abordan dos aspectos principales: por un lado, la codificación de los módulos funcionales que permiten realizar operaciones básicas sobre los datos (CRUD: crear, leer, actualizar y eliminar), utilizando lenguajes y frameworks de programación libres que aseguren eficiencia y escalabilidad. 
+Por otro lado, se lleva a cabo la configuración del servidor y el despliegue de la aplicación en un entorno de producción, generalmente sobre una máquina virtual Linux con servidores web como Apache o Nginx. 
+Estas acciones garantizan que el sistema sea accesible en la red, con todas sus dependencias correctamente instaladas, ofreciendo estabilidad y disponibilidad para los usuarios finales.
